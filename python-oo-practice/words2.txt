@@ -1,0 +1,9 @@
+# Dog Names
+Waldo
+Fido
+Spot
+
+# Cat Names
+Sparky
+Felix
+Montague
